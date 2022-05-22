@@ -6,15 +6,18 @@ body {
     font-size: 1.1em;
     line-height: 1.5;
     text-align: center;
-  }
+}
+
   h1{
     margin: 0;
     padding: 1em 0;
   }
+
   p {
     margin: 0;
     padding: 1em 0;
   }
+
   .btn {
     display: inline-block;
     background: #d24444;
@@ -24,6 +27,7 @@ body {
     border: 1px solid #666;
     margin: 0.5em 0;
   }
+
   #showcase {
     min-height: 450px;
     color: #242daa;
